@@ -1,4 +1,4 @@
-Spam-Email-Detection
+
 # 📧 Spam Email Detection using Machine Learning
 
 This project is a simple implementation of a **spam detector** using machine learning. It classifies text messages as either **spam** or **not spam (ham)** using Natural Language Processing (NLP) and scikit-learn.
